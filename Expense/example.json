@@ -1,0 +1,14 @@
+{
+	"expenses": [
+		{
+			"date":	X,
+			"category":	X,
+			"expense":	X
+		},
+		{
+			"date": Y,
+			"category": Y
+			"expense": Y
+		}
+	]
+}
