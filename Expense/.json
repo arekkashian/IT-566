@@ -1,0 +1,14 @@
+{"expenses": [{"category": "crayons", "expense": "1000", "date": "2026-11-12"}]}{
+    "expenses": [
+        {
+            "category": "crayons",
+            "expense": "1000",
+            "date": "2026-11-12"
+        },
+        {
+            "category": "crayola",
+            "expense": "1000",
+            "date": "2026-11-12"
+        }
+    ]
+}
